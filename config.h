@@ -12,6 +12,9 @@ static const char *colorname[NUMCOLS] = {
 /* treat a cleared input like a wrong password (color) */
 static const int failonclear = 1;
 
+/* time in seconds to cancel lock with mouse movement */
+static const int timetocancel = 3;
+
 /* default message */
 static const char * message = "Suckless: Software that sucks less.";
 
