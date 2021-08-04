@@ -16,10 +16,10 @@ static const int failonclear = 1;
 static const int timetocancel = 3;
 
 /* default message */
-static const char * message = "Suckless: Software that sucks less.";
+static const char * message = "Locked.";
 
 /* text color */
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * font_name = "-misc-hack-bold-i-normal--0-0-0-0-m-0-iso8859-15";
+static const char * font_name = "-misc-hack-bold-r-normal--0-0-0-0-m-0-iso8859-13";
